@@ -1,0 +1,4 @@
+TAXI	beijing	30	2000	500
+TAXI	shanghai 	30	2000	450
+BUS	xiamen	20	1500	750
+BUS	shenyang	20	1500	750		
